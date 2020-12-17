@@ -1,4 +1,10 @@
 # Youtube-Video-Downloader
+<div align="center">
+<img src="https://github.com/Ananya-0306/Youtube-Video-Downloader/blob/main/jhvasjahjjw.jpg" width="200"><br>
+<sup><strong>Fig 1:</strong> Megatocat into action</sup>
+</div>
+Made with ❤ by Ananya Chatterjee!
+
 YouTube Video Downloader Application Using Python
 This is just a two-line program but to convert it to GUI YouTube Video Downloader Application this is a bit longer but still, this program of GUI YouTube Video Downloader Application is less than 25 lines.
 
